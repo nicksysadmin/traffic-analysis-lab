@@ -15,7 +15,7 @@ Captured DNS query and response cycles to understand how domain names
 resolve to IP addresses. Identified Standard query and Standard query response 
 packets — the same process that fails during DNS-related outage tickets.
 
-![DNS Capture](dns-capture-png.png)
+![DNS Capture](dns-capture.png)
 
 ---
 
